@@ -3,7 +3,7 @@
   
 </p>
 <p align="center">
-<a href="http://forthebadge.com/" target="_blank">
+<a href="https://github.com/TrishCX/Pinterest-Scraper" target="_blank">
     <img src="http://forthebadge.com/images/badges/built-with-love.svg"/>
   </a>
 </p>
@@ -11,20 +11,20 @@
   <p align="center">
 <p align="center">
   <a href="https://github.com/TrishCX/Frix" target="_blank">
-    <img src="https://img.shields.io/npm/v/frixx.svg" alt="Build Status">
+    <img src="https://img.shields.io/npm/v/@myno_21/pinterest-scraper.svg" alt="Build Status">
   </a>
-  <a href="https://github.com/TrishCX/Frix" target="_blank">
+  <a href="https://github.com/TrishCX/Pinterest-Scraper" target="_blank">
     <img src="https://img.shields.io/badge/License-Boost_1.0-lightblue.svg" alt="Codecov" />
   </a>
   <a href="https://github.com/TrishCX/Frix" target="_blank">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+    <img src="https://img.shields.io/badge/License-ISC-blue.svg" alt="License">
   </a>
   
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/frixx" target="_blank">
-    <img src="https://img.shields.io/npm/dt/frixx.svg" />
+  <a href="https://www.npmjs.com/package/@myno_21/pinterest-scraper" target="_blank">
+    <img src="https://img.shields.io/npm/dt/@myno_21/pinterest-scraper.svg" />
   </a>
   
 </p>
@@ -104,7 +104,7 @@ async function get() {
 # 🔗 Links
 
 - [Github](https://github.com/TrishCX)
-- [Repository](https://github.com/TrishCX)
+- [Repository](https://github.com/TrishCX/Pinterest-Scraper)
 
 # License
 
